@@ -1,5 +1,6 @@
 # MissaoPraticaN2_Mundo3
- Missao Pratica em SQL Server
+ ![image](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/41324c9f-57ce-4236-b519-9b10ac00132b)
+
 
 
 
