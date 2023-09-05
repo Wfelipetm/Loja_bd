@@ -2,7 +2,8 @@
  Missao Pratica em SQL Server
 
 
- [Title](<../C:\FrontEnd\Projetos\MissaoPraticaN2_Mundo3\MissaoPraticaN2_Mundo3\DER_N2.jpg>)
+![image](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/f3654277-bc65-41b8-91ec-3bf041c53a39)
+
 
 
 
