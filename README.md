@@ -73,6 +73,7 @@ O SQL Server Management Studio melhora a produtividade no gerenciamento do banco
 
 [2º Procedimento]
 
+[waaaaaa.pdf](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/files/12526484/waaaaaa.pdf)
 
 Análise e Conclusão [2º Procedimento]:
 
