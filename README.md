@@ -24,12 +24,9 @@ Disciplina: Nível 2 - Mundo 3
 Semestre Letivo: Terceiro Semestre
 
 ---------------------------------------------------------------------------------------------------------------------------------
+Modelagem e implementação de um banco de dados simples, utilizando como base o SQL Server.
 
-Informações Gerais do Projeto:
 
-Título da Prática: Vamos manter as informações! Modelagem e implementação de um banco de dados simples, utilizando como base o SQL Server.
-
-Objetivo da Prática: O objetivo da prática é ensinar a identificação de requisitos de um sistema, modelagem de banco de dados, criação de estruturas usando SQL (DDL), consultas e manipulação de dados (DML) e implementação no SQL Server.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
