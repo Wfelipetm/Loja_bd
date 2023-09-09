@@ -8,17 +8,19 @@
 
 
 
-Universidade: UNIVERSIDADE ESTÁCIO DE SÁ
+Nome: Wallace Felipe Tavares Moreira 
 
-Campus: Itaguaí/RJ
+Matrícula: 202109237331
+
+Universidade: UNIVERSIDADE ESTÁCIO DE SÁ
 
 Curso: Desenvolvimento Full Stack
 
-Disciplina: Nível 2: Vamos Manter as Informações?
+Campus: Jardim América – Itaguaí/RJ
 
-Semestre Letivo: Mundo 3
+Disciplina: Nível 2 - Mundo 3
 
-Integrantes da Prática: Wallace Felipe Tavares Moreira
+Semestre Letivo: Terceiro Semestre
 
 Informações Gerais do Projeto:
 
@@ -39,11 +41,17 @@ Objetivo da Prática: O objetivo da prática é ensinar a identificação de req
 
 [2º Procedimento]
 
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> b73648d764fd9a3ea95d75c80958fd7e21bee879
 
 
 
-
-
+![sodapdf-converted_Page_1](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/c12658c1-4127-4168-b431-79325b5bb146)
+![sodapdf-converted_Page_2](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/9afd0b66-643b-4a4a-b06b-df7ad185827f)
+![sodapdf-converted_Page_3](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/147c0f78-03aa-4819-aed3-3586dcf52532)
 
 
 
