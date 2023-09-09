@@ -8,17 +8,19 @@
 
 
 
-Universidade: UNIVERSIDADE ESTÁCIO DE SÁ
+Nome: Wallace Felipe Tavares Moreira 
 
-Campus: Itaguaí/RJ
+Matrícula: 202109237331
+
+Universidade: UNIVERSIDADE ESTÁCIO DE SÁ
 
 Curso: Desenvolvimento Full Stack
 
-Disciplina: Nível 2: Vamos Manter as Informações?
+Campus: Jardim América – Itaguaí/RJ
 
-Semestre Letivo: Mundo 3
+Disciplina: Nível 2 - Mundo 3
 
-Integrantes da Prática: Wallace Felipe Tavares Moreira
+Semestre Letivo: Terceiro Semestre
 
 Informações Gerais do Projeto:
 
