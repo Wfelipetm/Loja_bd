@@ -41,12 +41,6 @@ Objetivo da Prática: O objetivo da prática é ensinar a identificação de req
 
 [2º Procedimento]
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> b73648d764fd9a3ea95d75c80958fd7e21bee879
-
 
 
 ![sodapdf-converted_Page_1](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/c12658c1-4127-4168-b431-79325b5bb146)
