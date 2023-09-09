@@ -18,7 +18,7 @@ Disciplina: Nível 2: Vamos Manter as Informações?
 
 Semestre Letivo: Mundo 3
 
-Integrantes da Prática: [Wallace Felipe Tavares Moreira]
+Integrantes da Prática: Wallace Felipe Tavares Moreira
 
 Informações Gerais do Projeto:
 
