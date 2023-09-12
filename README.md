@@ -19,7 +19,7 @@ Curso: Desenvolvimento Full Stack
 
 Campus: Jardim América – Itaguaí/RJ
 
-Disciplina: Nível 2 - Mundo 3
+Disciplina: Nível 2 - Vamos Manter as Informações?
 
 Semestre Letivo: Terceiro Semestre
 
