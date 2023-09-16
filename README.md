@@ -1,5 +1,5 @@
 
- ![image](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/41324c9f-57ce-4236-b519-9b10ac00132b)
+![265780663-41324c9f-57ce-4236-b519-9b10ac00132b](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/1bcb8698-8621-4713-918f-23a39d850528)
 
 
 
@@ -33,9 +33,10 @@ Modelagem e implementação de um banco de dados simples, utilizando como base o
 
 [1º Procedimento]
 
-![image](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/f3654277-bc65-41b8-91ec-3bf041c53a39)
 
 
+
+![265731824-f3654277-bc65-41b8-91ec-3bf041c53a39](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/14168c14-4603-4851-a4a5-882cf4577b18)
 
 
 
@@ -44,15 +45,17 @@ Modelagem e implementação de um banco de dados simples, utilizando como base o
 [2º Procedimento]
 
 
+![1](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/f3c3d5ec-ab2b-4e67-bcdb-5e0355251a5e)
 
-![sodapdf-converted_Page_1](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/c12658c1-4127-4168-b431-79325b5bb146)
 
 
----------------------------------------------------------------------------------------------------------------------------------
-![sodapdf-converted_Page_2](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/9afd0b66-643b-4a4a-b06b-df7ad185827f)
-![sodapdf-converted_Page_3](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/147c0f78-03aa-4819-aed3-3586dcf52532)
+![2](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/42e47e7e-a833-4668-8ee8-062fbd3c222b)
 
-![Sem título 1_001](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/bf9d17b0-6d8b-4207-8729-b370d35c38d8)
 
-![Sem título 1_002](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/06dece05-9901-4c56-a12c-20ee96d48ca9)
 
+![3](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/78a2ba2c-ce46-43bb-993e-6fb0d8c8a1e3)
+
+
+![4](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/25806b7c-aab5-4a88-8465-572e6c9b7f7c)
+
+![5](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/4cd4feb9-b6b3-4892-88c7-8bfbb1a2627b)
