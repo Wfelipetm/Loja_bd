@@ -1,29 +1,4 @@
 
-![265780663-41324c9f-57ce-4236-b519-9b10ac00132b](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/1bcb8698-8621-4713-918f-23a39d850528)
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------
-
-
-
-Nome: Wallace Felipe Tavares Moreira 
-
-Matrícula: 202109237331
-
-Universidade: UNIVERSIDADE ESTÁCIO DE SÁ
-
-Curso: Desenvolvimento Full Stack
-
-Campus: Jardim América – Itaguaí/RJ
-
-Disciplina: Nível 2 - Vamos Manter as Informações?
-
-Semestre Letivo: Terceiro Semestre
-
----------------------------------------------------------------------------------------------------------------------------------
 Modelagem e implementação de um banco de dados simples, utilizando como base o SQL Server.
 
 
@@ -31,7 +6,7 @@ Modelagem e implementação de um banco de dados simples, utilizando como base o
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-[1º Procedimento]
+
 
 
 
@@ -42,7 +17,7 @@ Modelagem e implementação de um banco de dados simples, utilizando como base o
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-[2º Procedimento]
+
 
 
 ![1](https://github.com/Wfelipetm/MissaoPraticaN2_Mundo3/assets/108297008/f3c3d5ec-ab2b-4e67-bcdb-5e0355251a5e)
